@@ -1,6 +1,7 @@
 {
-  "name": "my-app",
+  "name": "ast-staking",
   "version": "0.1.0",
+  "homepage": "https://mativanarquero.github.io/ast-staking",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
