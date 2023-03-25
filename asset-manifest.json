@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ast-staking/static/css/main.a8e42b35.css",
-    "main.js": "/ast-staking/static/js/main.5733f017.js",
-    "static/js/787.540ac2c1.chunk.js": "/ast-staking/static/js/787.540ac2c1.chunk.js",
-    "static/media/bg1.jpg": "/ast-staking/static/media/bg1.efe0d1221af796113d81.jpg",
-    "index.html": "/ast-staking/index.html",
-    "main.a8e42b35.css.map": "/ast-staking/static/css/main.a8e42b35.css.map",
-    "main.5733f017.js.map": "/ast-staking/static/js/main.5733f017.js.map",
-    "787.540ac2c1.chunk.js.map": "/ast-staking/static/js/787.540ac2c1.chunk.js.map"
+    "main.css": "/arquero-staking-dapp/static/css/main.9e1714e3.css",
+    "main.js": "/arquero-staking-dapp/static/js/main.e26e3b01.js",
+    "static/js/787.52ba7ea5.chunk.js": "/arquero-staking-dapp/static/js/787.52ba7ea5.chunk.js",
+    "static/media/bg1.jpg": "/arquero-staking-dapp/static/media/bg1.efe0d1221af796113d81.jpg",
+    "index.html": "/arquero-staking-dapp/index.html",
+    "main.9e1714e3.css.map": "/arquero-staking-dapp/static/css/main.9e1714e3.css.map",
+    "main.e26e3b01.js.map": "/arquero-staking-dapp/static/js/main.e26e3b01.js.map",
+    "787.52ba7ea5.chunk.js.map": "/arquero-staking-dapp/static/js/787.52ba7ea5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8e42b35.css",
-    "static/js/main.5733f017.js"
+    "static/css/main.9e1714e3.css",
+    "static/js/main.e26e3b01.js"
   ]
 }
