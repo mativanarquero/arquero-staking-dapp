@@ -1,12 +1,12 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Switch, Link } from "react-router-dom";
 import HomePage from "./components/Homepage";
 import StakingApp from "./components/StakingApp";
 import NavMenu from "./components/NavMenu";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <NavMenu />
       <Switch>
         <Route exact path="/" component={HomePage} />
