@@ -6,7 +6,7 @@ import NavMenu from "./components/NavMenu";
 
 const App = () => {
   return (
-    <Router basename="/ast-staking-dapp">
+    <Router>
       <NavMenu />
       <Switch>
         <Route exact path="/" component={HomePage} />
