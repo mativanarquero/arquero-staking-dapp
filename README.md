@@ -15,12 +15,12 @@ To run the application you will need the following:
 
 Installation:
 * Clone the repository:
-  * ```$ git clone https://github.com/mativanarquero/arquero-staking-dapp.git ```
+  * ```$ git clone https://github.com/mativanarquero/ast-staking-dapp.git ```
 
 Now go to project folder and run:
 
 ```bash
-$ cd arquero-staking-dapp
+$ cd ast-staking-dapp
 
 # install the dependencies
 $ yarn
